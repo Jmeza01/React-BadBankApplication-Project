@@ -13,7 +13,7 @@ Get the Chance to Watch Our Tutorial Video 👉 <a href="https://youtu.be/ZslRE1
 ## Technologies 💻
 * HTML
 * CSS
-* React/ JSX
+* React/JSX
 * Node.js
 * Bootstrap5
 * Babel
