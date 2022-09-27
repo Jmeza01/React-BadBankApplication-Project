@@ -6,6 +6,7 @@ This is a Single Page Application using React. It is a mock banking app, and was
 * Download or clone repository.
 * From project directory run NPM start.
 * Use the Navbar to go through the app and create an account.
+* Check out the "BadBank App" by clicking -> <a href="https://badbankapp-react.s3.amazonaws.com/index.html">Here</a> <-
 
 ## Technologies
 * HTML
