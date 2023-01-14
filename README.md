@@ -8,7 +8,7 @@ Get the Chance to Watch Our Tutorial Video 👉 <a href="https://youtu.be/ZslRE1
 * Download or clone repository.
 * From project directory run NPM start.
 * Use the Navbar to go through the app and create an account.
-* Check out the "The Capital Bank App" by clicking 👉 <a href="https://frontend-banking-reactapp.s3.amazonaws.com/index.html?utm_campaign=JoelMeza">Here</a> 👈
+* Check out the "The Capital Bank App" by clicking 👉 <a href="https://joel-mezacapitolbankapp.s3.us-west-1.amazonaws.com/index.html#/">Here</a> 👈
 
 ## Technologies 💻
 * HTML
